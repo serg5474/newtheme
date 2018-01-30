@@ -1,0 +1,2 @@
+# newtheme
+modernized theme responsible
