@@ -1,0 +1,646 @@
+#tygh_container {
+
+background-color:#fff;
+}
+
+
+.tygh-top-panel.clearfix {
+background-color:#f6f6f9;
+background-image:none;
+}
+
+.tygh-header.clearfix {
+background-color:#23262d;
+background-image:none;
+padding-bottom: 30px;
+border:none;
+}
+
+
+.mainmen111 .ty-menu__items{
+
+background-color:#23262d;
+background-image:none;
+
+}
+
+.mainmen111 .ty-menu__items.cm-responsive-menu li a.ty-menu__item-link {
+font-weight: normal;
+color:#fff;
+}
+
+.mainmen111 .ty-menu__items.cm-responsive-menu li a.ty-menu__item-link:hover {
+font-weight: normal;
+background-color:transparent;
+color:#fa0b42;
+}
+
+
+
+.mainmen111 .ty-menu__items.cm-responsive-menu li .ty-menu__item-active a.ty-menu__item-link {
+font-weight: normal;
+background-color:transparent;
+color: #fa0b42;
+}
+
+.mainmen111 .ty-menu__items.cm-responsive-menu li .ty-menu__item-active a.ty-menu__item-link:link {
+font-weight: normal;
+background-color:transparent;
+color: #fa0b42;
+}
+
+
+
+.mainmen111 a.ty-menu__item-link {
+
+font-weight: normal;
+background-color:transparent;
+color: #fa0b42;
+}
+
+.mainmen111 a.ty-menu__item-link:link {
+
+font-weight: normal;
+background-color:transparent;
+color: #fa0b42;
+}
+
+
+.mainmen111 .no-touch .ty-menu__item:hover a.ty-menu__item-link {
+
+background-color: transparent;
+color: #fa0b42;
+
+}
+
+
+
+
+
+.mainmen111 li.ty-menu__submenu-item a.ty-menu__submenu-link {
+
+text-transform:uppercase;
+
+
+}
+
+.mainmen111 li.ty-menu__submenu-item a.ty-menu__submenu-link:hover {
+
+background-color: transparent;
+
+}
+
+
+
+
+
+
+
+
+.mainmen111 li.ty-menu__submenu-item a.ty-menu__submenu-link:hover:before {
+
+content: '>  '
+
+}
+
+@media (min-width: 767px){
+
+.mainmen111 ul.ty-menu__submenu-items.cm-responsive-menu-submenu {
+border:none;
+background-color:#f6f6f9;
+border-radius:0px;
+font-size: 0.8em;
+
+
+}
+
+.mainmen111 ul.ty-menu__submenu-items.ty-menu__submenu-items-simple.cm-responsive-menu-submenu {
+background-color:#f6f6f9;
+border:none;
+border-radius:0px;
+font-size: 0.8em;
+
+
+}
+
+}
+ 
+.mainmen111 .ty-search-block {
+
+background-color:#23262d;
+
+}
+
+
+@media (max-width: 900px){
+
+.ty-search-block {
+
+display:none;
+
+} 
+
+}
+
+
+
+
+#search_input.ty-search-block__input.cm-hint {
+background:#23262d;
+border:none;
+}
+
+.ty-search-magnifier {
+color: #fff;
+}
+
+.ty-search-magnifier:hover {
+color: #fa0b42;
+}
+
+input#search_input.ty-search-block__input.cm-hint-focused + button.ty-search-magnifier {
+color: #cccccc;
+}
+
+
+
+
+#tygh_main_container .row-fluid .top-cart-content .ty-dropdown-box__title{
+background-color:transparent;
+}
+
+
+@media (max-width: 767px){
+
+ .top-cart-content.ty-float-left {
+
+float: right;
+
+}
+
+
+
+
+}
+
+
+
+.strokanavig .ty-wysiwyg-content {
+
+font-family: 'Lobster', cursive;
+font-size: 3em;
+color: #fa0b42;
+padding-top: 10px;
+
+}
+
+
+
+
+
+
+
+
+.filterandmenu {
+color: #222;
+border-style:solid;
+border-width:1px;
+border-color:#e8e8e8;
+
+}
+
+
+.filterandmenu {
+background-color: #f6f6f9;
+} 
+
+
+h3.ty-sidebox-important__title {
+padding: 15px;
+margin:0px;
+background-color:#fff;
+border-bottom-style:solid;
+border-bottom-width:1px;
+border-bottom-color:#e8e8e8;
+width: auto;
+
+}
+
+
+@media (min-width: 767px){
+.kategorimenu .ty-menu__items.cm-responsive-menu {
+background-color:#f6f6f9;
+
+
+}
+}
+
+
+
+.ty-product-filters__switch:before {
+font-weight: bold;
+content: 'Фильтр:'
+}
+
+.ty-product-filters__switch {
+color:#222;
+text-transform: uppercase;
+padding: 15px;
+margin:0px;
+background-color:#fff;
+border-bottom-style:solid;
+border-bottom-width:1px;
+border-bottom-color:#e8e8e8;
+border-top-style:solid;
+border-top-width:1px;
+border-top-color:#e8e8e8;
+}
+
+
+
+.ty-sidebox__title-wrapper {
+color: #222;
+}
+
+
+
+span.ui-slider-handle.ui-state-default.ui-corner-all{
+background-color:#fa0b42;
+}
+
+
+.ty-range-slider .ui-slider-range{
+background-color: #222;
+}
+
+
+.ty-range-slider__num {
+display:none;
+}
+
+.ty-product-filters__switch-right.ty-icon-up-open {
+margin:0px;
+}
+
+.ty-product-filters__switch-down.ty-icon-down-open {
+margin:0px;
+}
+
+
+
+#pagination_contents div.ty-sort-container {
+color: #222;
+padding: 5px;
+border-style:solid;
+border-width:1px;
+border-color:#e8e8e8;
+text-transform: uppercase;
+font-weight: bold;
+font-size: 0.7em;
+margin-left: 10px;
+width: 97%;
+border-radius: 0px;
+}
+
+#pagination_contents div.ty-sort-container a {
+background-color: #fff;
+border:none;
+border-radius: 0px;
+font-weight: bold;
+
+}
+
+
+.ty-column3 .ty-grid-list__item.ty-quick-view-button__wrapper{
+
+border-radius: 0px;
+
+}
+
+.ty-grid-list__item-name bdi{
+text-transform:uppercase;
+font-size: 0.9em;
+
+}
+
+.ty-grid-list__item-name bdi a{
+
+font-weight: bold;
+}
+
+.ty-grid-list__item-name + .grid-list__rating {
+display:none;
+}
+
+
+
+a.ty-pagination__item.ty-pagination__btn span{
+text-transform:uppercase;
+font-size: 0.9em;
+font-weight: bold;
+color: #222;
+
+}
+
+a.ty-pagination__item.ty-pagination__btn i {
+color: #fa0b42;
+font-weight: bold;
+}
+
+.ty-pagination span.ty-pagination__selected {
+border-radius: 50%;;
+padding: 15px;
+min-width: 17px;
+
+}
+
+.ty-pagination__items a {
+border-radius: 50%;
+padding: 15px;
+min-width: 17px;
+border-style:solid;
+border-width:1px;
+border-color:#e8e8e8;
+}
+
+
+.ty-pagination__items a:hover {
+border-radius: 50%;
+padding: 15px;
+min-width: 17px;
+background-color: #fa0b42;
+color: #fff;
+}
+
+
+
+.ty-scroller-discussion-list .owl-carousel.ty-scroller-list.owl-theme {
+border-radius: 0px;
+margin-left: 20px;
+width: 95%;
+}
+
+.ty-discussion-post__buttons.buttons-container {
+background-color: #fff;
+}
+
+a.ty-btn {
+background-color: #fa0b42;
+border-radius: 30px;
+padding-left:20px;
+padding-right:20px;
+}
+
+a.ty-btn:hover {
+background-color: #222;
+padding-left:20px;
+padding-right:20px;
+}
+
+li.ty-menu__item.cm-menu-item-responsive.dropdown-vertical__dir menu-level- {
+
+color: #222;
+}
+
+
+
+
+//страница товара
+
+
+.ty-product-bigpicture__right {
+border: none;
+background-color:#fff;
+}
+
+.ty-product-bigpicture__brand {
+
+display:none;
+}
+
+.ty-product-bigpicture__prices {
+border:none;
+}
+
+
+
+.prices-container.price-wrap {
+border: none;
+background-color:#fff;
+}
+
+
+.ty-product-bigpicture__sidebar-bottom {
+border: none;
+background-color:#fff;
+}
+
+.ty-center.ty-value-changer.cm-value-changer {
+background-color: #edf2f5;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+border-radius: 30px;
+}
+ 
+
+.ty-product-block__button button.ty-btn {
+border-radius: 30px;
+min-width: 250px;
+margin-left:10px;
+margin-right:0px;
+padding:10px 15px;
+}
+
+.ty-product-block__button button.ty-btn:hover {
+background-color: #222;
+min-width: 250px;
+margin-left:10px;
+margin-right:0px;
+padding:10px 15px;
+}
+
+.ty-product-block__button a.ty-btn {
+border-style:solid;
+border-width:1px;
+border-color:#e8e8e8;
+border-radius: 30px;
+min-width: 250px;
+padding-top:10px;
+padding-bottom:10px;
+padding-left:0px;
+padding-right:0px;
+margin-left:none;
+margin-right:none;
+}
+
+.ty-product-block__button a.ty-btn:hover {
+border-style:solid;
+border-width:1px;
+border-color:#e8e8e8;
+border-radius: 30px;
+min-width: 250px;
+padding-top:10px;
+padding-bottom:10px;
+padding-left:0px;
+padding-right:0px;
+margin-left:none;
+margin-right:none;
+
+}
+
+
+
+.ty-product-block__sku {
+display:none;
+}
+
+
+
+//описание
+
+
+
+
+li.ty-tabs__item.cm-js.active {
+border-top-style:solid;
+border-top-width:1px;
+border-top-color:#e8e8e8;
+border-left-style:solid;
+border-left-width:1px;
+border-left-color:#e8e8e8;
+border-right-style:solid;
+border-right-width:1px;
+border-right-color:#e8e8e8;
+border-radius:0px;
+-webkit-box-shadow: none;
+box-shadow:none;
+}
+
+li.ty-tabs__item.cm-js {
+
+border-top-style:solid;
+border-top-width:1px;
+border-top-color:#e8e8e8;
+border-left-style:solid;
+border-left-width:1px;
+border-left-color:#e8e8e8;
+border-right-style:solid;
+border-right-width:1px;
+border-right-color:#e8e8e8;
+border-radius:0px;
+background-color: #fff;
+}
+
+.cm-tabs-content.ty-tabs__content.clearfix {
+border-left-color: #fff;
+border-right-color: #fff;
+-webkit-box-shadow: none;
+box-shadow:none;
+}
+
+
+
+//футер
+
+
+//главная
+
+.content-firstpage h2 {
+
+
+font-family: 'Lobster', cursive;
+
+color: #fa0b42;
+padding-bottom: 10px;
+padding-top: 30px;
+
+}
+
+
+
+
+
+
+
+
+.ty-scroller-list__item .ty-discount-label {
+
+border-radius: 6px 0px 0px 6px;
+
+
+}
+
+
+//Баннеры
+
+
+.banner-cont55 {
+height: 700px;
+width:100%;
+
+background-image: url(http://serg17.s20.wh1.su/design/themes/responsive_clone/media/images/zhenschina.jpg);
+background-position: center;
+}
+
+
+.banner-cont66 {
+height: 700px;
+width:100%;
+
+background-image: url(http://serg17.s20.wh1.su/design/themes/responsive_clone/media/images/luxfon.jpg);
+background-position: center;
+}
+
+
+.banner-cont77 {
+height: 700px;
+width:100%;
+
+background-image: url(http://serg17.s20.wh1.su/design/themes/responsive_clone/media/images/vecher.jpg);
+background-position: center;
+}
+
+
+@media (max-width: 900px){
+
+.bannerty {
+
+display:none;
+}  
+
+}
+
+
+.nadpis {
+
+padding-top: 20%;
+padding-left: 10%;
+text-align:left;
+
+}
+
+.zagolov2223 {
+color: #fff;
+font-size: 4em;
+font-weight: bold;
+margin-bottom: 20px;
+
+}
+
+
+
+.ty-btn {
+background-color: #fa0b42;
+border-radius: 30px;
+padding-left:20px;
+padding-right:20px;
+}
+
+.ty-btn:hover {
+background-color: #222;
+padding-left:20px;
+padding-right:20px;
+}
+
